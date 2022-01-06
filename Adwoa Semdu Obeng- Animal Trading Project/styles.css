@@ -1,0 +1,54 @@
+/* add your CSS here */
+body {
+  background-color: grey;
+}
+
+h1 {
+  padding: 5px;
+  background-color: brown;
+  text-align: center;
+}
+
+.column {
+  border: 0.3px ridge silver;
+  box-shadow: 7px 7px lightgray;
+  padding: 0.5em;
+  width: 300px;
+  height: 570px;
+  background-color: rgb(75, 50, 100);
+  display: inline-block;
+}
+
+h3 {
+  font: italic black 50px serif;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+}
+
+.box {
+  border: 0.5px ridge silver;
+  margin-top: 15px;
+  padding: 0.2em 0.5em;
+  width: 280px;
+  height: 280px;
+  text-align: left;
+}
+
+.description {
+  font-style: italic;
+}
+
+li {
+  list-style: none;
+}
+
+li span {
+  margin-left: -40px;
+}
+
+.bold {
+  font-weight: bold;
+}
